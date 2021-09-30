@@ -1,0 +1,5 @@
+Website: abv.bg IP: 194.153.145.104
+Website: apple.com IP: 17.253.144.10
+Website: facebook.com IP: 157.240.214.35
+Website: fortnite.com IP: 34.198.198.236
+Website: abv.bg IP: 194.153.145.104

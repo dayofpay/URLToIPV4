@@ -1,0 +1,7 @@
+C:\Users\dayofpay\source\repos\WebToIPV4\WebToIPV4\bin\Debug\WebToIPV4.exe.config
+C:\Users\dayofpay\source\repos\WebToIPV4\WebToIPV4\bin\Debug\WebToIPV4.exe
+C:\Users\dayofpay\source\repos\WebToIPV4\WebToIPV4\bin\Debug\WebToIPV4.pdb
+C:\Users\dayofpay\source\repos\WebToIPV4\WebToIPV4\obj\Debug\WebToIPV4.csprojAssemblyReference.cache
+C:\Users\dayofpay\source\repos\WebToIPV4\WebToIPV4\obj\Debug\WebToIPV4.csproj.CoreCompileInputs.cache
+C:\Users\dayofpay\source\repos\WebToIPV4\WebToIPV4\obj\Debug\WebToIPV4.exe
+C:\Users\dayofpay\source\repos\WebToIPV4\WebToIPV4\obj\Debug\WebToIPV4.pdb
